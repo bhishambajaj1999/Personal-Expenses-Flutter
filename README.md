@@ -1,6 +1,6 @@
-# expenses_app
+## Weekly Expenses
 
-A new Flutter application.
+This application allows you to compute your weekly expenses and displays a day-wise spending ratio chart for the past week
 
 ## Getting Started
 
